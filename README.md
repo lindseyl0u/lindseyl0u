@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **react & react native**
 
-- 👨‍💻 All of my projects are available at [https://lindseyribbon.netlify.app](https://lindseyribbon.netlify.app)
-
-- 📫 How to reach me **lindseyribbon@icloud.com**
+- 📫 Reach me at **lindseyribbon@icloud.com**
 
 - ⚡ Fun fact **I rescue worms I find on the sidewalk**
 
